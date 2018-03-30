@@ -11,3 +11,7 @@ Before adding this language theme, ensure that you are running the latest versio
   5. Select 'Import...'.
   6. Select VS_AHK_Lang.xml and open it by either pressing 'Open' while the file is hilighted or by double-clicking the file.
   7. Select 'Save As...' and enter the name 'AutoHotKey-VS'.
+
+## Authors
+
+* [**Ethan Genser**](https://github.com/Ethan-Genser) - *Creator*
